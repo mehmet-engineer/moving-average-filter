@@ -1,2 +1,4 @@
 # moving-average-filter
-Moving Average Filter
+Date: 12.02.2024 /
+
+Moving Average Filter on Python
